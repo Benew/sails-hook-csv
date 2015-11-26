@@ -1,0 +1,29 @@
+{
+  "name": "sails-hook-csv",
+  "version": "1.0.0",
+  "description": "csv endpoint for sails",
+  "main": "csv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benew/sails-hook-csv.git"
+  },
+  "keywords": [
+    "sails",
+    "csv"
+  ],
+  "author": "Armel Larcier <armel.larcier@jpm-next.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benew/sails-hook-csv/issues"
+  },
+  "homepage": "https://github.com/Benew/sails-hook-csv#readme",
+  "dependencies": {
+    "json2csv": "^3.0.1",
+    "lodash": "^3.10.1",
+    "moment": "^2.10.6",
+    "pluralize": "^1.2.1"
+  }
+}
